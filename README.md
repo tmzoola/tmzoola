@@ -1,5 +1,5 @@
 I'm a Junior Developer at The Joint-Stock Commercial Bank “Universal Bank” focusing on building an APIs for Unired Mobile application
-and developing Admin panel for Support Teams use.
+and developing Admin panel for Support Teams.
 ### Hi there, These are the projects what I am working on 👋
 
 
