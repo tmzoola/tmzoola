@@ -5,10 +5,11 @@ and developing Admin panel for Support Teams.
 
 Here are some ideas to get you started:
 
+- CodeWars profile ---  https://www.codewars.com/users/tmzoola
 - 🔭 I’m currently working on http://mobile.unired.uz/support and http://3ds.unired.uz/
 - 🌱 I’m currently learning --- Django Rest Framework/Python
 - 👯 I’m looking to collaborate on --- Django
 - 💬 Ask me about --- Anything
 - 📫 How to reach me: --- murodtokh1997@gmail.com
 - 😄 Pronouns: --- He/Him
-- CodeWars profile ---  https://www.codewars.com/users/tmzoola
+
