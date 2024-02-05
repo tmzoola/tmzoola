@@ -1,5 +1,4 @@
-I'm a Junior Developer focusing on building an APIs for Unired Mobile application
-and developing Admin panel for Support Teams.
+I'm a Backend Developer focusing on building an APIs
 ### Hi there, These are the projects what I am working on 👋
 
 
